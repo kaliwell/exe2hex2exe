@@ -1,5 +1,6 @@
 # exe2hex2exe
 software bundle软件捆绑
+
 将两个exe转换成16进制插入代码中携带运行
 需要将两个程序命名为1.exe 2.exe
 ![wt2s111](https://github.com/kaliwell/exe2hex2exe/assets/78673980/69243ca5-c3d4-4100-bf78-4fdb3cfc752c)
